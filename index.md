@@ -8,6 +8,6 @@ Independent Optics & Photonics research
 - Nanophotonics
 
 ## People
-- Kiyoung Choi [https://orcid.org/0009-0006-2182-8378](https://orcid.org/0009-0006-2182-8378)
+- Kiyoung Choi [https://orcid.org/0009-0006-2182-8378](https://orcid.org/0009-0006-2182-8378) <br>
   [kychoi@gmail.com](https://orcid.org/0009-0006-2182-8378)
 
