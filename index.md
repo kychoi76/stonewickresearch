@@ -3,8 +3,7 @@
 Independent Optics & Photonics research
 
 ## Research
-- MicroLED
-- FDTD simulation
+- MicroLEDs
 - Nanophotonics
 
 ## Contact
